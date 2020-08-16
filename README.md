@@ -1,6 +1,6 @@
 # WebCrawling
-## Selenium과 BeautifulSoup 이용
-### 파이썬을 이용해서 웹크롤링 하기
+## 파이썬을 이용해서 웹크롤링 하기
+### Selenium과 BeautifulSoup 이용
 
 
 [Basic English Speaking] (https://basicenglishspeaking.com/daily-english-conversation-topics/)
